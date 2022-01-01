@@ -16,7 +16,7 @@ header{
     margin: 10px auto;
 }
 
-a{
+header a{
     color: #565c73;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -49,9 +49,13 @@ button{
     border-radius: 10px;
     padding: 10px 20px;
     background: transparent;
-    color: #CDD4DE;
+    margin-top: 100px;
+}
+
+button a{
     font-family: 'Roboto', sans-serif;
     font-style: thin;
     font-size: 20px;
-    margin-top: 100px;
+    color: #CDD4DE;
+    text-decoration: none;
 }
